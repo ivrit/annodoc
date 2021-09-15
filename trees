@@ -1,0 +1,13 @@
+
+    ~~~ sdparse
+    Dogs run
+    nsubj(run, Dogs)
+    ~~~
+
+which results in this embedded visualization:
+
+~~~ sdparse
+Dogs run
+nsubj(run, Dogs)
+~~~
+
